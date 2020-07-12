@@ -37,7 +37,7 @@ git:
     branch: master
     fluxPath: "flux/"
     user: "gitops"
-    email: "gitops@myorg.com"
+    email: "<username>@users.noreply.github.com"
   operator:
     namespace: "flux"
     withHelm: true
