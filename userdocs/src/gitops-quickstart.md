@@ -181,7 +181,7 @@ your repository in a temporary directory that will be removed later.
 ```console
 enable profile app-dev \
         --git-url git@github.com:example/my-eks-config \
-        --git-email your@email.com \
+        --git-email <username>@users.noreply.github.com \
         --cluster your-cluster-name \
         --region your-cluster-region
 ```
